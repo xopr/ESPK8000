@@ -1,0 +1,1 @@
+This Arduino project has been written to test the two PCF8574 I2C I/O expanders on the [Velleman K8000](https://www.velleman.eu/products/view/?id=9383) on an ESP8266 usng a webserver and some fancy slidebuttons.
